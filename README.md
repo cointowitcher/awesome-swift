@@ -1580,6 +1580,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 * [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - Lightweight animation flowlayout for UICollectionView.
+* [InfiniteScroller](https://github.com/cointowitcher/InfiniteScroller) - Horizontal and Vertical collection view for infinite scrolling that was designed to be used in SwiftUI
 
 #### UITableView
 [back to top](#readme) 
